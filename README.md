@@ -32,6 +32,8 @@ Spanish Telegram Group where some of this projects developers are:
 
 - [Fail Safe mode library for ESP8266 and ESP32](https://github.com/gmag11/FailSafeMode/) - It detects boot loops so after a few quick restart cycles it enters in a fail safe mode. Then it starts an AP where you can connect and send a new firmware using OTA.
 
+- [ESPNPTClient](https://github.com/gmag11/ESPNtpClient) - High accuracy NTP library for ESP32 and ESP8266. Very easy to use. Only one code line is necessary for basic functionality with default configuration.
+
 ## Users Repositories
 
 - [AndreasIBZ](https://github.com/AndreasIBZ) - Mechancial Engineer, hobbyist programmer, always "hands-on".
